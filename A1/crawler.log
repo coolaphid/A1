@@ -1,0 +1,71 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 646-845-549
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 12:57:09] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 12:57:09] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 12:57:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 12:57:19] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 12:57:23] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 12:57:30] "[32mPOST /register HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 12:57:30] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 12:57:41] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 12:57:41] "GET / HTTP/1.1" 200 -
+ERROR:root:»ñÈ¡´úÀí IP Ê±³ö´í: HTTPSConnectionPool(host='your-proxy-api-url.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000002B77F9C2E40>: Failed to establish a new connection: [WinError 10061] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£'))
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 12:58:08] "POST /crawl HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 13:01:56] "GET /admin HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 646-845-549
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 15:29:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 15:29:36] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 15:29:36] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 15:29:36] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 15:29:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 646-845-549
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 15:33:36] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 15:33:36] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 15:33:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 646-845-549
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 16:51:19] "[32mGET / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 16:51:19] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 16:51:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 646-845-549
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 136-860-897
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 17:27:14] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 17:27:22] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 17:27:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 646-845-549
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 17:34:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 17:34:16] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [17/Apr/2025 17:34:16] "GET /login HTTP/1.1" 200 -
